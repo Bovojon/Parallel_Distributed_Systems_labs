@@ -1,1 +1,1 @@
-# Parallel_Distributed_Systems_labs
+# Labs from Parallel and Distributed Systems 
